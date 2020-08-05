@@ -27,3 +27,4 @@ func main() {
 	input := []int{1,2,3,4,5,6,8}
 	fmt.Println(missingNumber(input,len(input)))
 }
+
