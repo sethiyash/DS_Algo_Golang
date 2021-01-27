@@ -1,3 +1,6 @@
+//Given two sorted arrays arr1[] and arr2[] of sizes N and M in non-decreasing order. 
+//Merge them in sorted order using extra space
+
 package main
 
 import (
